@@ -8,7 +8,7 @@ public class HomeController {
 	
 	@RequestMapping("/")
 	public String home(){
-		return "Das app is up yas" ;
+		return "NASM APP LAUNCH" ;
 	}
 
 }
